@@ -962,12 +962,15 @@ Lexicon Vault is designed to provide a straightforward file-locking and restorat
 
 Use Lexicon Vault responsibly and **verify important files after restoration**. ✅
 
+<p align="center">
+  <img src="YOUR_IMAGE_URL" width="180" alt="AQLYRO Logo">
+</p>
 
-![AQLYRO](/Brand.jpg)
+<h3 align="center">Developed by AQLYRO</h3>
 
-**This app is developed by AQLYRO.**
-
-AQLYRO focuses on advanced artificial intelligence, next-generation machinery, and cutting-edge technological research.
+<p align="center">
+  AQLYRO focuses on advanced artificial intelligence, next-generation machinery, and cutting-edge technological research.
+</p>
 ---
 
 <div align="center">
