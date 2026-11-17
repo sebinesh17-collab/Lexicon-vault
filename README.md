@@ -963,7 +963,7 @@ Lexicon Vault is designed to provide a straightforward file-locking and restorat
 Use Lexicon Vault responsibly and **verify important files after restoration**. ✅
 
 <p align="center">
-  <img src="YOUR_IMAGE_URL" width="180" alt="AQLYRO Logo">
+  <img src="/Brand.jpg" width="180" alt="AQLYRO Logo">
 </p>
 
 <h3 align="center">Developed by AQLYRO</h3>
