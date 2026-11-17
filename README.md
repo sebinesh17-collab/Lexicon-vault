@@ -98,7 +98,7 @@ Lock Mode converts an original file into a protected pattern.
 4. 🧬 The application generates a protected pattern.
 5. 💾 The resulting pattern is saved for future restoration.
 
-![Lock & Encode — original file dissolving into a locked pattern](images/lock-encode.jpg)
+![Lock & Encode — original file dissolving into a locked pattern](/lock-encode.jpg)
 
 > [!NOTE]
 > The original file remains **separate** from the generated pattern file. The **pattern file is the one you must keep** if you ever want to restore your original data later.
@@ -214,7 +214,7 @@ The application provides two main tabs:
 
 ### 🖥️ 4.2 Understanding the Main Dashboard
 
-![Lexicon Vault dashboard on an Android device](images/dashboard.jpg)
+![Lexicon Vault dashboard on an Android device](/dashboard.jpg)
 
 **Application Header** — displays:
 
@@ -373,7 +373,7 @@ LexiconVault/
 
 Without these two items, successful restoration may not be possible.
 
-![Unlock & Restore — pattern cube reassembling into a restored file](images/unlock-restore.jpg)
+![Unlock & Restore — pattern cube reassembling into a restored file](/unlock-restore.jpg)
 
 ### Step 1 — 🔓 Open Unlock Mode
 
