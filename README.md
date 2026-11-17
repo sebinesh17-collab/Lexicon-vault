@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Lexicon-vault/hero.jpg" alt="Lexicon Vault hero" width="100%" style="max-width:100%;border-radius:18px" />
+<img src="/hero.jpg" alt="Lexicon Vault hero" width="100%" style="max-width:100%;border-radius:18px" />
 
 # 🔐 LEXICON VAULT
 
